@@ -1,5 +1,5 @@
 package polymorphism;
 
-public class MethodOverriding {
+public class MethodOverriding extends Calculator {
 
 }
